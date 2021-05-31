@@ -1,0 +1,300 @@
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 0: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  0  n2=  0 enabel_sum=0 || sum=  x less=x match=x more=x
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 15  n2=  5 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 5: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 15  n2=  5 enabel_sum=1 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 10: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 17  n2=  8 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 10: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 17  n2=  8 enabel_sum=1 || sum= 20 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  4  n2=  8 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 15: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  4  n2=  8 enabel_sum=1 || sum= 25 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 20: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  2  n2=  4 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 20: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  2  n2=  4 enabel_sum=1 || sum= 12 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 20: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  2  n2=  4 enabel_sum=1 || sum= 12 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 17  n2= 10 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 25: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 17  n2= 10 enabel_sum=1 || sum=  6 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 25: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 17  n2= 10 enabel_sum=1 || sum=  6 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 30: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 18  n2= 17 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 30: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 18  n2= 17 enabel_sum=1 || sum= 27 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 30: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 18  n2= 17 enabel_sum=1 || sum= 27 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 21  n2=  9 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 35: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 21  n2=  9 enabel_sum=1 || sum= 35 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 35: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 21  n2=  9 enabel_sum=1 || sum= 35 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 40: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 19  n2=  8 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 40: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 19  n2=  8 enabel_sum=1 || sum= 30 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 40: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 19  n2=  8 enabel_sum=1 || sum= 30 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 24  n2= 12 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 45: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 24  n2= 12 enabel_sum=1 || sum= 27 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 45: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 24  n2= 12 enabel_sum=1 || sum= 27 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 50: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  6  n2= 15 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 50: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  6  n2= 15 enabel_sum=1 || sum= 36 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 50: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  6  n2= 15 enabel_sum=1 || sum= 36 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 10  n2=  1 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 55: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 10  n2=  1 enabel_sum=1 || sum= 21 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 55: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 10  n2=  1 enabel_sum=1 || sum= 21 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 60: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 16  n2=  1 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 60: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 16  n2=  1 enabel_sum=1 || sum= 11 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 60: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 16  n2=  1 enabel_sum=1 || sum= 11 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 21  n2=  3 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 65: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 21  n2=  3 enabel_sum=1 || sum= 17 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 65: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 21  n2=  3 enabel_sum=1 || sum= 17 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 70: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 11  n2= 23 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 70: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 11  n2= 23 enabel_sum=1 || sum= 24 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 70: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 11  n2= 23 enabel_sum=1 || sum= 24 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 24  n2= 12 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 75: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 24  n2= 12 enabel_sum=1 || sum= 34 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 75: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 24  n2= 12 enabel_sum=1 || sum= 34 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 80: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  7  n2= 21 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 80: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  7  n2= 21 enabel_sum=1 || sum= 36 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 80: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  7  n2= 21 enabel_sum=1 || sum= 36 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  8  n2= 23 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 85: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  8  n2= 23 enabel_sum=1 || sum= 28 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 85: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  8  n2= 23 enabel_sum=1 || sum= 28 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 90: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 14  n2= 11 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 90: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 14  n2= 11 enabel_sum=1 || sum= 31 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 90: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 14  n2= 11 enabel_sum=1 || sum= 31 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  3  n2= 18 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 95: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  3  n2= 18 enabel_sum=1 || sum= 25 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 95: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  3  n2= 18 enabel_sum=1 || sum= 25 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 100: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 21  n2= 11 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 21  n2= 11 enabel_sum=1 || sum= 21 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 100: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 21  n2= 11 enabel_sum=1 || sum= 21 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  1  n2=  0 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  1  n2=  0 enabel_sum=1 || sum= 32 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 105: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  1  n2=  0 enabel_sum=1 || sum= 32 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 110: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 15  n2= 10 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 15  n2= 10 enabel_sum=1 || sum=  1 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 110: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 15  n2= 10 enabel_sum=1 || sum=  1 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  8  n2= 12 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  8  n2= 12 enabel_sum=1 || sum= 25 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 115: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  8  n2= 12 enabel_sum=1 || sum= 25 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 120: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 20  n2= 19 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 20  n2= 19 enabel_sum=1 || sum= 20 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 120: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 20  n2= 19 enabel_sum=1 || sum= 20 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 11  n2=  6 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 11  n2=  6 enabel_sum=1 || sum= 39 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 125: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 11  n2=  6 enabel_sum=1 || sum= 39 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 130: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=108  n2=187 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=108  n2=187 enabel_sum=1 || sum= 17 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 130: uvm_test_top.env_h.scoreboard_h [PASS ] n1=108  n2=187 enabel_sum=1 || sum= 17 less=1 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=188  n2=158 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=188  n2=158 enabel_sum=1 || sum=295 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 135: uvm_test_top.env_h.scoreboard_h [PASS ] n1=188  n2=158 enabel_sum=1 || sum=295 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 140: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=121  n2=185 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=121  n2=185 enabel_sum=1 || sum=346 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 140: uvm_test_top.env_h.scoreboard_h [PASS ] n1=121  n2=185 enabel_sum=1 || sum=346 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=255  n2= 64 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=255  n2= 64 enabel_sum=1 || sum=306 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 145: uvm_test_top.env_h.scoreboard_h [PASS ] n1=255  n2= 64 enabel_sum=1 || sum=306 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 150: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 97  n2= 84 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 97  n2= 84 enabel_sum=1 || sum=319 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 150: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 97  n2= 84 enabel_sum=1 || sum=319 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=235  n2= 67 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=235  n2= 67 enabel_sum=1 || sum=181 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 155: uvm_test_top.env_h.scoreboard_h [PASS ] n1=235  n2= 67 enabel_sum=1 || sum=181 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 160: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=208  n2=114 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=208  n2=114 enabel_sum=1 || sum=302 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 160: uvm_test_top.env_h.scoreboard_h [PASS ] n1=208  n2=114 enabel_sum=1 || sum=302 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 54  n2= 47 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 54  n2= 47 enabel_sum=1 || sum=322 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 165: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 54  n2= 47 enabel_sum=1 || sum=322 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 170: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=198  n2=183 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=198  n2=183 enabel_sum=1 || sum=101 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 170: uvm_test_top.env_h.scoreboard_h [PASS ] n1=198  n2=183 enabel_sum=1 || sum=101 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=170  n2=226 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=170  n2=226 enabel_sum=1 || sum=381 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 175: uvm_test_top.env_h.scoreboard_h [PASS ] n1=170  n2=226 enabel_sum=1 || sum=381 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 180: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=155  n2=139 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=155  n2=139 enabel_sum=1 || sum=396 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 180: uvm_test_top.env_h.scoreboard_h [PASS ] n1=155  n2=139 enabel_sum=1 || sum=396 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 83  n2=214 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 83  n2=214 enabel_sum=1 || sum=294 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 185: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 83  n2=214 enabel_sum=1 || sum=294 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 190: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=159  n2= 57 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=159  n2= 57 enabel_sum=1 || sum=297 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 190: uvm_test_top.env_h.scoreboard_h [PASS ] n1=159  n2= 57 enabel_sum=1 || sum=297 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=213  n2=185 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=213  n2=185 enabel_sum=1 || sum=216 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 195: uvm_test_top.env_h.scoreboard_h [PASS ] n1=213  n2=185 enabel_sum=1 || sum=216 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 200: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=246  n2= 88 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=246  n2= 88 enabel_sum=1 || sum=398 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 200: uvm_test_top.env_h.scoreboard_h [PASS ] n1=246  n2= 88 enabel_sum=1 || sum=398 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=208  n2=163 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=208  n2=163 enabel_sum=1 || sum=334 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 205: uvm_test_top.env_h.scoreboard_h [PASS ] n1=208  n2=163 enabel_sum=1 || sum=334 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 210: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 82  n2=219 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 82  n2=219 enabel_sum=1 || sum=371 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 210: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 82  n2=219 enabel_sum=1 || sum=371 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=124  n2=254 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=124  n2=254 enabel_sum=1 || sum=301 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 215: uvm_test_top.env_h.scoreboard_h [PASS ] n1=124  n2=254 enabel_sum=1 || sum=301 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 220: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 61  n2=215 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 61  n2=215 enabel_sum=1 || sum=378 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 220: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 61  n2=215 enabel_sum=1 || sum=378 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=201  n2=250 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=201  n2=250 enabel_sum=1 || sum=276 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 225: uvm_test_top.env_h.scoreboard_h [PASS ] n1=201  n2=250 enabel_sum=1 || sum=276 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 230: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=149  n2=180 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=149  n2=180 enabel_sum=1 || sum=451 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 230: uvm_test_top.env_h.scoreboard_h [PASS ] n1=149  n2=180 enabel_sum=1 || sum=451 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=157  n2=235 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 235: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=157  n2=235 enabel_sum=1 || sum=329 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 235: uvm_test_top.env_h.scoreboard_h [PASS ] n1=157  n2=235 enabel_sum=1 || sum=329 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 240: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=160  n2= 64 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=160  n2= 64 enabel_sum=1 || sum=392 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 240: uvm_test_top.env_h.scoreboard_h [PASS ] n1=160  n2= 64 enabel_sum=1 || sum=392 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=166  n2=254 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 245: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=166  n2=254 enabel_sum=1 || sum=224 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 245: uvm_test_top.env_h.scoreboard_h [PASS ] n1=166  n2=254 enabel_sum=1 || sum=224 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=252  n2=135 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=252  n2=135 enabel_sum=1 || sum=420 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] n1=252  n2=135 enabel_sum=1 || sum=420 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 255: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 20  n2= 30 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 255: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 20  n2= 30 enabel_sum=1 || sum=387 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 255: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 20  n2= 30 enabel_sum=1 || sum=387 less=0 match=0 more=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 260: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 13  n2= 37 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 260: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 13  n2= 37 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 260: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 13  n2= 37 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 265: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 37  n2= 13 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 265: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 37  n2= 13 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 265: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 37  n2= 13 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 270: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  2  n2= 48 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 270: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  2  n2= 48 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 270: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  2  n2= 48 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 275: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 16  n2= 34 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 275: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 16  n2= 34 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 275: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 16  n2= 34 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 280: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 43  n2=  7 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 280: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 43  n2=  7 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 280: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 43  n2=  7 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 285: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 15  n2= 35 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 285: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 15  n2= 35 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 285: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 15  n2= 35 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 290: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 10  n2= 40 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 290: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 10  n2= 40 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 290: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 10  n2= 40 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 295: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 18  n2= 32 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 295: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 18  n2= 32 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 295: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 18  n2= 32 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 300: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 47  n2=  3 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 300: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 47  n2=  3 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 300: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 47  n2=  3 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 305: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  9  n2= 41 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 305: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  9  n2= 41 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 305: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  9  n2= 41 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 310: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 14  n2= 36 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 310: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 14  n2= 36 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 310: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 14  n2= 36 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 315: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 16  n2= 34 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 315: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 16  n2= 34 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 315: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 16  n2= 34 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 320: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 23  n2= 27 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 320: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 23  n2= 27 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 320: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 23  n2= 27 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 325: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  3  n2= 47 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 325: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  3  n2= 47 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 325: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  3  n2= 47 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 330: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 14  n2= 36 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 330: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 14  n2= 36 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 330: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 14  n2= 36 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 335: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 10  n2= 40 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 335: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 10  n2= 40 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 335: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 10  n2= 40 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 340: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 43  n2=  7 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 340: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 43  n2=  7 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 340: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 43  n2=  7 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 345: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 44  n2=  6 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 345: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 44  n2=  6 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 345: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 44  n2=  6 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 350: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 30  n2= 20 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 350: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 30  n2= 20 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 350: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 30  n2= 20 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 355: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 32  n2= 18 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 355: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 32  n2= 18 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 355: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 32  n2= 18 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 360: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 10  n2= 40 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 360: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 10  n2= 40 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 360: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 10  n2= 40 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 365: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  3  n2= 47 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 365: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  3  n2= 47 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 365: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  3  n2= 47 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 370: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 27  n2= 23 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 370: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 27  n2= 23 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 370: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 27  n2= 23 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 375: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  2  n2= 48 enabel_sum=1
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 375: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  2  n2= 48 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 375: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  2  n2= 48 enabel_sum=1 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 380: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=234  n2=112 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 380: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=234  n2=112 enabel_sum=0 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 380: uvm_test_top.env_h.scoreboard_h [PASS ] n1=234  n2=112 enabel_sum=0 || sum= 50 less=0 match=1 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 385: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 87  n2=217 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 385: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 87  n2=217 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 385: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 87  n2=217 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 390: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 49  n2=171 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 390: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 49  n2=171 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 390: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 49  n2=171 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 395: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=120  n2=230 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 395: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=120  n2=230 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 395: uvm_test_top.env_h.scoreboard_h [PASS ] n1=120  n2=230 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 400: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 44  n2=138 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 400: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 44  n2=138 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 400: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 44  n2=138 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 405: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 77  n2=151 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 405: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 77  n2=151 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 405: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 77  n2=151 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 410: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=219  n2= 13 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 410: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=219  n2= 13 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 410: uvm_test_top.env_h.scoreboard_h [PASS ] n1=219  n2= 13 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 415: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=214  n2=236 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 415: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=214  n2=236 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 415: uvm_test_top.env_h.scoreboard_h [PASS ] n1=214  n2=236 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 420: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 62  n2= 52 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 420: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 62  n2= 52 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 420: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 62  n2= 52 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 425: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 19  n2=229 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 425: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 19  n2=229 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 425: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 19  n2=229 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 430: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 85  n2=255 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 430: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 85  n2=255 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 430: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 85  n2=255 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 435: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  4  n2=130 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 435: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  4  n2=130 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 435: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  4  n2=130 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 440: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 32  n2=110 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 440: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 32  n2=110 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 440: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 32  n2=110 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 445: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=169  n2=195 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 445: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=169  n2=195 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 445: uvm_test_top.env_h.scoreboard_h [PASS ] n1=169  n2=195 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 450: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=159  n2=129 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 450: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=159  n2=129 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 450: uvm_test_top.env_h.scoreboard_h [PASS ] n1=159  n2=129 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 455: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=  2  n2=168 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 455: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=  2  n2=168 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 455: uvm_test_top.env_h.scoreboard_h [PASS ] n1=  2  n2=168 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 460: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=210  n2= 56 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 460: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=210  n2= 56 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 460: uvm_test_top.env_h.scoreboard_h [PASS ] n1=210  n2= 56 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 465: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 15  n2= 49 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 465: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 15  n2= 49 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 465: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 15  n2= 49 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 470: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=185  n2=147 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 470: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=185  n2=147 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 470: uvm_test_top.env_h.scoreboard_h [PASS ] n1=185  n2=147 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 475: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=208  n2= 94 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 475: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=208  n2= 94 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 475: uvm_test_top.env_h.scoreboard_h [PASS ] n1=208  n2= 94 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 480: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 84  n2=146 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 480: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 84  n2=146 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 480: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 84  n2=146 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 485: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1= 69  n2= 47 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 485: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1= 69  n2= 47 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 485: uvm_test_top.env_h.scoreboard_h [PASS ] n1= 69  n2= 47 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 490: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=163  n2= 53 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 490: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=163  n2= 53 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 490: uvm_test_top.env_h.scoreboard_h [PASS ] n1=163  n2= 53 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 495: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=110  n2=164 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 495: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=110  n2=164 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 495: uvm_test_top.env_h.scoreboard_h [PASS ] n1=110  n2=164 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(53) @ 500: uvm_test_top.env_h.scoreboard_h [write_drv STIM] n1=166  n2=124 enabel_sum=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(96) @ 500: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] n1=166  n2=124 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_scoreboard.sv(113) @ 500: uvm_test_top.env_h.scoreboard_h [PASS ] n1=166  n2=124 enabel_sum=0 || sum=  0 less=0 match=0 more=0
+UVM_INFO /home/runner/add_comp_coverage.sv(57) @ 510: uvm_test_top.env_h.coverage_h [add_comp_coverage] Coverage is 52.026144
+UVM_INFO /home/runner/add_comp_scoreboard.sv(133) @ 510: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 97 vectors ran, 97 vectors passed ***
